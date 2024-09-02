@@ -4,7 +4,7 @@ Uma aplicação simples desenvolvida com Next.js para demonstrar o uso da biblio
 
 🔥 **Introdução**
 
-Nesta atividade da disciplina Multimídia do curso superior em Bacharelado em Tecnologia da Informação, o objetivo é criar um programa com Next.js que mostra:
+Nesta atividade da disciplina Multimídia do Curso Bacharelado em Tecnologia da Informação, o objetivo é criar um programa com Next.js que mostra:
 
 - Um ícone de "play" e o texto "Pausado" quando a variável `playing` é `false`.
 - Um ícone de "pause" e o texto "Executando" quando a variável `playing` é `true`.
