@@ -66,4 +66,4 @@ Este projeto utiliza as seguintes tecnologias:
 
 ## 📄 Licença
 
-* Este projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/LogicaQuiz/tree/master?tab=MIT-1-ov-file).  
+* Este projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/tarefa01-next.js/tree/master?tab=MIT-1-ov-file).  
