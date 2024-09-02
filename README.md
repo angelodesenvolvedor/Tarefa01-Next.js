@@ -68,3 +68,11 @@ Este projeto utiliza as seguintes tecnologias:
 - **React**: Biblioteca para construção de interfaces de usuário.
 - **react-icons**: Biblioteca para ícones.
 - **Tailwind CSS**: Framework de CSS utilitário para estilização.
+
+## 🧑🏽‍💻 Autor
+
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+
+## 📄 Licença
+
+* Este projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/LogicaQuiz/tree/master?tab=MIT-1-ov-file).  
