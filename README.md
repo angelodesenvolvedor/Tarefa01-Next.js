@@ -50,15 +50,6 @@ npm run dev
 
 Acesse [http://localhost:3000](http://localhost:3000) no seu navegador para ver a aplicação em funcionamento.
 
-## 🛠️ Executando os testes
-
-Se você tiver testes configurados, você pode executá-los usando o comando:
-
-```bash
-npm test
-```
-
-Certifique-se de que os testes estão configurados corretamente no seu projeto.
 
 ## 📦 Tecnologias usadas
 
