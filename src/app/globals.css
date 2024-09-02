@@ -26,8 +26,41 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+/* Remove or correct the text-balance utility if `text-wrap` is not valid */
 @layer utilities {
   .text-balance {
-    text-wrap: balance;
+    /* As text-wrap is not a valid CSS property, this example aligns text */
+    text-align: justify; /* Adjust this based on your needs */
+  }
+
+  /* Custom height classes */
+  .h-25vh {
+    height: 25vh; /* Custom height for mobile devices */
+  }
+  .h-35vh {
+    height: 35vh; /* Custom height for tablets */
+  }
+}
+
+/* Responsive Styles */
+@media (max-width: 639px) { /* Mobile Devices */
+  .grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .fixed {
+    bottom: 2rem; /* Adjust button position for mobile devices */
+  }
+}
+
+@media (min-width: 640px) and (max-width: 767px) { /* Tablets */
+  .grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 768px) { /* Desktops */
+  .grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
